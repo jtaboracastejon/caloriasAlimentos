@@ -1,0 +1,6 @@
+com\castejonpmp\dao\CaloriasDB.class
+com\castejonpmp\dao\Conn.class
+com\castejonpmp\utilities\Layout.class
+com\castejonpmp\caloriasalimentoscrud\AlimentoItem.class
+com\castejonpmp\caloriasalimentoscrud\Application.class
+com\castejonpmp\caloriasalimentoscrud\Main.class
